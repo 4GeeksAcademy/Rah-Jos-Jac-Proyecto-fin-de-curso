@@ -1,0 +1,283 @@
+ABADÍN	abadín
+ABEGONDO	abegondo
+AGOLADA	agolada
+ALFOZ	alfoz
+ALLARIZ	allariz
+AMES	ames
+AMOEIRO	amoeiro
+ANTAS DE ULLA	antas de ulla
+ARANGA	aranga
+ARBO	arbo
+ARES	ares
+ARTEIXO	arteixo
+ARZÚA	arzúa
+AVIÓN	avión
+BAIONA	baiona
+BALEIRA	baleira
+BALTAR	baltar
+BANDE	bande
+BARALLA	baralla
+BARBADÁS	barbadás
+BARCO DE VALDEORRAS, O	o barco de valdeorras
+BARREIROS	barreiros
+BARRO	barro
+BAÑOS DE MOLGAS	baños de molgas
+BEADE	beade
+BEARIZ	beariz
+BECERREÁ	becerreá
+BEGONTE	begonte
+BERGONDO	bergondo
+BETANZOS	betanzos
+BOBORÁS	boborás
+BOIMORTO	boimorto
+BOIRO	boiro
+BRIÓN	brión
+BUEU	bueu
+BURELA	burela
+BÓVEDA	bóveda
+CABANA DE BERGANTIÑOS	cabana de bergantiños
+CABANAS	cabanas
+CALDAS DE REIS	caldas de reis
+CALVOS DE RANDÍN	calvos de randín
+CAMARIÑAS	camariñas
+CAMBADOS	cambados
+CAMBRE	cambre
+CAMPO LAMEIRO	campo lameiro
+CANGAS	cangas
+CARBALLEDA DE AVIA	carballeda de avia
+CARBALLEDA DE VALDEORRAS	carballeda de valdeorras
+CARBALLEDO	carballedo
+CARBALLINO, O	o carballiño
+CARBALLO	carballo
+CARIÑO	cariño
+CARNOTA	carnota
+CARRAL	carral
+CARTELLE	cartelle
+CASTRELO DE MIÑO	castrelo de miño
+CASTRELO DO VAL	castrelo do val
+CASTRO CALDELAS	castro caldelas
+CASTRO DE REI	castro de rei
+CASTROVERDE	castroverde
+CATOIRA	catoira
+CEDEIRA	cedeira
+CEE	cee
+CELANOVA	celanova
+CENLLE	cenlle
+CERCEDA	cerceda
+CERDEDO	cerdedo
+CERDIDO	cerdido
+CERVANTES	cervantes
+CERVO	cervo
+CHANDREXA DE QUEIXA	chandrexa de queixa
+CHANTADA	chantada
+COIRÓS	coirós
+COLES	coles
+CORCUBIÓN	corcubión
+CORISTANCO	coristanco
+CORTEGADA	cortegada
+COSPEITO	cospeito
+COTOBADE	cotobade
+COVELO	covelo
+CRECENTE	crecente
+CUALEDRO	cualedro
+CULLEREDO	culleredo
+CUNTIS	cuntis
+CURTIS	curtis
+DODRO	dodro
+DOZÓN	dozón
+DUMBRÍA	dumbría
+ENTRIMO	entrimo
+ESGOS	esgos
+FENE	fene
+FERROL	ferrol
+FISTERRA	fisterra
+FOLGOSO DO COUREL	folgoso do courel
+FONSAGRADA, A	a fonsagrada
+FORCAREI	forcarei
+FORNELOS DE MONTES	fornelos de montes
+FOZ	foz
+FRADES	frades
+FRIOL	friol
+GOMESENDE	gomesende
+GONDOMAR	gondomar
+GUITIRIZ	guitiriz
+GUNTÍN	guntín
+ILLA DE AROUSA, A	a illa de arousa
+IRIXOA	irixoa
+LALÍN	lalín
+LAROUCO	larouco
+LAXE	laxe
+LAZA	laza
+LEIRO	leiro
+LOBEIRA	lobera
+LOBIOS	lobios
+LOURENZÁ	lourenzá
+LOUSAME	lousame
+LUGO	lugo
+LÁNCARA	láncara
+MACEDA	maceda
+MALPICA DE BERGANTIÑOS	malpica de bergantiños
+MANZANEDA	manzaneda
+MARÍN	marín
+MASIDE	maside
+MAZARICOS	mazaricos
+MAÑÓN	mañón
+MEAÑO	meaño
+MEIRA	meira
+MEIS	meis
+MELIDE	mellid
+MELÓN	melón
+MESÍA	mesía
+MEZQUITA, A	a mezquita
+MIÑO	miño
+MOAÑA	moaña
+MOECHE	moeche
+MONDARIZ	mondariz
+MONDARIZ-BALNEARIO	mondariz-balneario
+MONDOÑEDO	mondoñedo
+MONFERO	monfero
+MONFORTE DE LEMOS	monforte de lemos
+MONTEDERRAMO	montederramo
+MONTERREI	monterrei
+MONTERROSO	monterroso
+MORAÑA	moraña
+MOS	mos
+MUGARDOS	mugardos
+MUIÑOS	muíños
+MURAS	muras
+MUROS	muros
+MUXÍA	muxía
+NARÓN	narón
+NAVIA DE SUARNA	navia de suarna
+NEDA	neda
+NEGREIRA	negreira
+NEGUEIRA DE MUÑIZ	negueira de muñiz
+NIGRÁN	nigrán
+NOGUEIRA DE RAMUÍN	nogueira de ramuín
+NOIA	noia
+OIA	oia
+OLEIROS	oleiros
+ORDES	ordes
+OROSO	oroso
+ORTIGUEIRA	ortigueira
+OURENSE	ourense
+OUROL	ourol
+OUTEIRO DE REI	outeiro de rei
+OUTES	outes
+OZA-CESURAS	oza-cesuras
+OÍMBRA	oímbra
+PADERNE	paderne
+PADERNE DE ALLARIZ	paderne de allariz
+PADRENDA	padrenda
+PADRÓN	padrón
+PALAS DE REI	palas de rei
+PANTÓN	pantón
+PARADA DE SIL	parada de sil
+PARADELA	paradela
+PASTORIZA, A	a pastoriza
+PAZOS DE BORBÉN	pazos de borbén
+PEDRAFITA DO CEBREIRO	pedrafita do cebreiro
+PEREIRO DE AGUIAR, O	o pereiro de aguiar
+PETÍN	petín
+PIÑOR	piñor
+POBLA DO BROLLÓN, A	a pobra do brollón
+POBRA DE TRIVES, A	a pobra de trives
+POBRA DO CARAMIÑAL, A	a pobra do caramiñal
+POIO	poio
+POL	pol
+PONTE CALDELAS	ponte caldelas
+PONTEAREAS	ponteareas
+PONTECESO	ponteceso
+PONTECESURES	pontecesures
+PONTEDEUME	pontedeume
+PONTEDEVA	pontedeva
+PONTENOVA, A	a pontenova
+PONTES DE GARCIA RODRIGUEZ, AS	as pontes de garcía rodríguez
+PONTEVEDRA	pontevedra
+PORQUEIRA	porquera
+PORTAS	portas
+PORTO DO SON	porto do son
+PORTOMARÍN	portomarín
+PUNXÍN	punxín
+QUINTELA DE LEIRADO	quintela de leirado
+QUIROGA	quiroga
+RAIRIZ DE VEIGA	rairiz de veiga
+RAMIRÁS	ramirás
+REDONDELA	redondela
+RIANXO	rianxo
+RIBADAVIA	ribadavia
+RIBADEO	ribadeo
+RIBADUMIA	ribadumia
+RIBAS DE SIL	ribas de sil
+RIBEIRA	ribeira
+RIBEIRA DE PIQUÍN	ribeira de piquín
+RIOTORTO	riotorto
+RIÓS	riós
+RODEIRO	rodeiro
+ROIS	rois
+RUBIÁ	rubiá
+RÁBADE	rábade
+SADA	sada
+SALCEDA DE CASELAS	salceda de caselas
+SALVATERRA DE MIÑO	salvaterra de miño
+SAMOS	samos
+SAN AMARO	san amaro
+SAN CIBRAO DAS VIÑAS	san cibrao das viñas
+SAN CRISTOVO DE CEA	san cristovo de cea
+SAN SADURNIÑO	san sadurniño
+SAN XOAN DE RIO	san xoán de río
+SANDIÁS	sandiás
+SANTA COMBA	santa comba
+SANTIAGO DE COMPOSTELA	santiago de compostela
+SANTISO	santiso
+SANXENXO	sanxenxo
+SARREAUS	sarreaus
+SARRIA	sarria
+SILLEDA	silleda
+SOBER	sober
+SOBRADO	sobrado
+SOUTOMAIOR	soutomaior
+TABOADA	taboada
+TABOADELA	taboadela
+TEIXEIRA, A	a teixeira
+TEO	teo
+TOMIÑO	tomiño
+TOQUES	toques
+TORDOIA	tordoia
+TOURO	touro
+TOÉN	toén
+TRABADA	trabada
+TRASMIRAS	trasmiras
+TRAZO	trazo
+TRIACASTELA	triacastela
+TUI	tui
+VAL DO DUBRA	val do dubra
+VALADOURO, O	o valadouro
+VALDOVIÑO	valdoviño
+VALGA	valga
+VEDRA	vedra
+VEREA	verea
+VERÍN	verín
+VIANA DO BOLO	viana do bolo
+VIGO	vigo
+VILA DE CRUCES	vila de cruces
+VILABOA	vilaboa
+VILAGARCÍA DE AROUSA	vilagarcía de arousa
+VILALBA	vilalba
+VILAMARTÍN DE VALDEORRAS	vilamartín de valdeorras
+VILAMARÍN	vilamarín
+VILANOVA DE AROUSA	vilanova de arousa
+VILAR DE BARRIO	vilar de barrio
+VILAR DE SANTOS	vilar de santos
+VILARDEVÓS	vilardevós
+VILARIÑO DE CONSO	vilariño de conso
+VILARMAIOR	vilarmaior
+VILASANTAR	vilasantar
+VIMIANZO	vimianzo
+VIVEIRO	viveiro
+XERMADE	xermade
+XINZO DE LIMIA	xinzo de limia
+XOVE	xove
+XUNQUEIRA DE AMBÍA	xunqueira de ambía
+XUNQUEIRA DE ESPADANEDO	xunqueira de espadanedo
+ZAS	zas
